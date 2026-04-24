@@ -30,3 +30,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/duttabornil?theme=dark&font=Karma&ext=contest&border=0&radius=20" width="850"/>
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duttabornil/duttabornil/output/github-contribution-grid-snake-dark.svg" />
+</p>
