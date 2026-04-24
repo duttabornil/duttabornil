@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center"> duttabornil </h1>
+<h1 align="center"> Bornil </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=Developer;DSA+Enthusiast" />
